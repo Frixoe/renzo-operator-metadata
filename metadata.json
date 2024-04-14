@@ -2,6 +2,6 @@
   "name": "Renzo Operated By Luganodes",
   "website": "https://www.renzoprotocol.com/",
   "description": "Renzo's Eigenlayer Operator, powered by Luganodes",
-  "logo": "",
+  "logo": "https://raw.githubusercontent.com/Frixoe/renzo-operator-metadata/main/logo.png",
   "twitter": "https://twitter.com/RenzoProtocol"
 }
